@@ -5,7 +5,7 @@ Christopher Olvera
 ## Contents
 - `src/main/Contact.java` and `ContactService.java`: a contact object and a service that adds, updates, and deletes contacts by unique ID (project one)
 - `src/test/ContactTest.java` and `ContactServiceTest.java`: JUnit 5 tests for both classes
-- `Project_Two_Summary_and_Reflections.docx`: a report on my testing approach, the techniques I used and did not use, and the mindset of a software tester (project two)
+- `CS320ProjectTwo.docx`: a report on my testing approach, the techniques I used and did not use, and the mindset of a software tester (project two)
 
 Together these show my work writing unit tests that uncover errors, comparing testing approaches against requirements, and choosing testing strategies that fit them.
 
